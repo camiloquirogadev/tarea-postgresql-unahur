@@ -1,8 +1,8 @@
 
-# </> Tarea PostgreSQL Universidad de Hurlingham
+#  Tarea PostgreSQL Universidad de Hurlingham
 ## _</> Quiroga Camilo
 
-## </>
+## 
 
 1. Genere los create table para registrar los datos del documento mostrado.
 2. Genere los queries que permitan insertar 5 facturas con 5 ítems cada una 
